@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React.js, Node.js, Express.js**
 
-- 📫 How to reach me **imuqeetchaudhary@gmail.com**
+- 📫 How to reach me **abdulmuqeet.arshad@devsinc.com**
 
 - 📄 Know about my experiences [https://imuqeetchaudhary.github.io/profile](https://imuqeetchaudhary.github.io/profile)
 
